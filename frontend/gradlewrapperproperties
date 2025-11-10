@@ -1,0 +1,4 @@
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.13-bin.zip
+# Project-wide Gradle settings.
+org.gradle.jvmargs=-Xmx1536m
+kotlin.code.style=official
